@@ -1,0 +1,985 @@
+
+win.png
+size: 2040,2040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+InfoBoard_Particle_unpack/infoboard_particle_01
+  rotate: false
+  xy: 630, 1991
+  size: 90, 48
+  orig: 120, 58
+  offset: 27, 5
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_02
+  rotate: false
+  xy: 722, 1991
+  size: 90, 48
+  orig: 120, 58
+  offset: 27, 5
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_03
+  rotate: false
+  xy: 166, 1993
+  size: 90, 46
+  orig: 120, 58
+  offset: 27, 7
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_04
+  rotate: false
+  xy: 258, 1993
+  size: 90, 46
+  orig: 120, 58
+  offset: 27, 7
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_05
+  rotate: false
+  xy: 1614, 1987
+  size: 80, 52
+  orig: 120, 58
+  offset: 14, 3
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_06
+  rotate: false
+  xy: 1696, 1987
+  size: 84, 52
+  orig: 120, 58
+  offset: 10, 3
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_07
+  rotate: false
+  xy: 1782, 1987
+  size: 98, 52
+  orig: 120, 58
+  offset: 10, 4
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_08
+  rotate: false
+  xy: 1086, 1989
+  size: 84, 50
+  orig: 120, 58
+  offset: 10, 4
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_09
+  rotate: false
+  xy: 1172, 1989
+  size: 84, 50
+  orig: 120, 58
+  offset: 10, 4
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_10
+  rotate: false
+  xy: 814, 1991
+  size: 82, 48
+  orig: 120, 58
+  offset: 12, 5
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_11
+  rotate: false
+  xy: 1258, 1989
+  size: 82, 50
+  orig: 120, 58
+  offset: 12, 4
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_12
+  rotate: false
+  xy: 1342, 1989
+  size: 82, 50
+  orig: 120, 58
+  offset: 12, 4
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_13
+  rotate: false
+  xy: 1426, 1989
+  size: 80, 50
+  orig: 120, 58
+  offset: 13, 5
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_14
+  rotate: false
+  xy: 898, 1991
+  size: 86, 48
+  orig: 120, 58
+  offset: 13, 5
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_15
+  rotate: false
+  xy: 350, 1993
+  size: 78, 46
+  orig: 120, 58
+  offset: 12, 6
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_16
+  rotate: false
+  xy: 8, 1995
+  size: 78, 44
+  orig: 120, 58
+  offset: 12, 7
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_17
+  rotate: false
+  xy: 88, 1995
+  size: 76, 44
+  orig: 120, 58
+  offset: 13, 7
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_18
+  rotate: false
+  xy: 430, 1993
+  size: 98, 46
+  orig: 120, 58
+  offset: 18, 6
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_19
+  rotate: false
+  xy: 530, 1993
+  size: 98, 46
+  orig: 120, 58
+  offset: 18, 7
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_20
+  rotate: false
+  xy: 1508, 1989
+  size: 104, 50
+  orig: 120, 58
+  offset: 12, 4
+  index: -1
+InfoBoard_Particle_unpack/infoboard_particle_21
+  rotate: false
+  xy: 986, 1991
+  size: 98, 48
+  orig: 120, 58
+  offset: 18, 5
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_01
+  rotate: true
+  xy: 595, 1334
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_02
+  rotate: true
+  xy: 805, 1326
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_03
+  rotate: true
+  xy: 1015, 1326
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_04
+  rotate: true
+  xy: 1225, 1313
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_05
+  rotate: true
+  xy: 1435, 1313
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_06
+  rotate: true
+  xy: 1645, 1297
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_07
+  rotate: true
+  xy: 199, 1220
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_08
+  rotate: true
+  xy: 409, 1214
+  size: 118, 210
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_09
+  rotate: true
+  xy: 1261, 1055
+  size: 120, 210
+  orig: 180, 214
+  offset: 30, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_10
+  rotate: true
+  xy: 621, 1206
+  size: 118, 210
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_11
+  rotate: true
+  xy: 833, 1206
+  size: 118, 210
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_12
+  rotate: true
+  xy: 1045, 1193
+  size: 118, 210
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_13
+  rotate: true
+  xy: 1257, 1193
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_14
+  rotate: true
+  xy: 1467, 1177
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_15
+  rotate: true
+  xy: 1677, 1117
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_16
+  rotate: true
+  xy: 1, 1100
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_17
+  rotate: true
+  xy: 211, 1094
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_18
+  rotate: true
+  xy: 421, 1086
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_19
+  rotate: true
+  xy: 631, 1086
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_20
+  rotate: true
+  xy: 841, 1073
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Kitty_Mode_unpack/vfx_b_win_highlight_21
+  rotate: true
+  xy: 1051, 1073
+  size: 118, 208
+  orig: 180, 214
+  offset: 32, 3
+  index: -1
+Lucky_Spin_Light_unpack/flare_b
+  rotate: false
+  xy: 1882, 1983
+  size: 132, 56
+  orig: 132, 56
+  offset: 0, 0
+  index: -1
+Lucky_Sword_Light_unpack/vfx_e_fast_spin_01
+  rotate: false
+  xy: 148, 1811
+  size: 321, 99
+  orig: 335, 119
+  offset: 6, 7
+  index: -1
+Lucky_Sword_Light_unpack/vfx_e_fast_spin_02
+  rotate: false
+  xy: 647, 1688
+  size: 321, 101
+  orig: 335, 119
+  offset: 7, 6
+  index: -1
+Lucky_Sword_Light_unpack/vfx_e_fast_spin_03
+  rotate: false
+  xy: 970, 1686
+  size: 321, 101
+  orig: 335, 119
+  offset: 7, 6
+  index: -1
+Lucky_Sword_Light_unpack/vfx_e_fast_spin_04
+  rotate: false
+  xy: 1293, 1678
+  size: 321, 101
+  orig: 335, 119
+  offset: 7, 6
+  index: -1
+Lucky_Sword_Light_unpack/vfx_e_fast_spin_05
+  rotate: false
+  xy: 1616, 1665
+  size: 321, 101
+  orig: 335, 119
+  offset: 7, 6
+  index: -1
+Lucky_Sword_Light_unpack/vfx_e_fast_spin_06
+  rotate: false
+  xy: 1, 1607
+  size: 321, 101
+  orig: 335, 119
+  offset: 7, 6
+  index: -1
+Lucky_Sword_Light_unpack/vfx_e_fast_spin_07
+  rotate: false
+  xy: 620, 1795
+  size: 321, 99
+  orig: 335, 119
+  offset: 6, 7
+  index: -1
+Lucky_Sword_Light_unpack/vfx_e_fast_spin_08
+  rotate: false
+  xy: 943, 1791
+  size: 321, 99
+  orig: 335, 119
+  offset: 6, 7
+  index: -1
+Lucky_Sword_Light_unpack/vfx_e_fast_spin_09
+  rotate: false
+  xy: 1266, 1789
+  size: 321, 99
+  orig: 335, 119
+  offset: 6, 7
+  index: -1
+Lucky_Sword_Light_unpack/vfx_e_fast_spin_10
+  rotate: false
+  xy: 1589, 1781
+  size: 321, 99
+  orig: 335, 119
+  offset: 6, 7
+  index: -1
+Lucky_Sword_Light_unpack/vfx_e_fast_spin_11
+  rotate: false
+  xy: 1, 1710
+  size: 321, 99
+  orig: 335, 119
+  offset: 6, 7
+  index: -1
+Lucky_Sword_Light_unpack/vfx_e_fast_spin_12
+  rotate: false
+  xy: 324, 1694
+  size: 321, 99
+  orig: 335, 119
+  offset: 6, 7
+  index: -1
+Main_Back_unpack/sword_reel
+  rotate: false
+  xy: 1357, 844
+  size: 449, 139
+  orig: 450, 141
+  offset: 0, 1
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_01
+  rotate: true
+  xy: 324, 1578
+  size: 114, 196
+  orig: 180, 214
+  offset: 33, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_02
+  rotate: true
+  xy: 522, 1572
+  size: 114, 196
+  orig: 180, 214
+  offset: 33, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_03
+  rotate: true
+  xy: 720, 1572
+  size: 114, 196
+  orig: 180, 214
+  offset: 33, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_04
+  rotate: true
+  xy: 918, 1570
+  size: 114, 196
+  orig: 180, 214
+  offset: 33, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_05
+  rotate: true
+  xy: 1116, 1562
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_06
+  rotate: true
+  xy: 1314, 1562
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_07
+  rotate: true
+  xy: 1512, 1549
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_08
+  rotate: true
+  xy: 1710, 1549
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_09
+  rotate: true
+  xy: 1, 1491
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_10
+  rotate: true
+  xy: 199, 1462
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_11
+  rotate: true
+  xy: 397, 1456
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_12
+  rotate: true
+  xy: 595, 1456
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_13
+  rotate: true
+  xy: 793, 1454
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_14
+  rotate: true
+  xy: 991, 1446
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_15
+  rotate: true
+  xy: 1189, 1446
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_16
+  rotate: true
+  xy: 1387, 1433
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_17
+  rotate: true
+  xy: 1585, 1433
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_18
+  rotate: true
+  xy: 1783, 1417
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_19
+  rotate: true
+  xy: 1, 1375
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_20
+  rotate: true
+  xy: 199, 1346
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Pattern_Frame_Light_unpack/vfx_a_win_highlight_21
+  rotate: true
+  xy: 397, 1340
+  size: 114, 196
+  orig: 180, 214
+  offset: 34, 10
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_01
+  rotate: true
+  xy: 229, 1912
+  size: 79, 115
+  orig: 105, 167
+  offset: 12, 26
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_02
+  rotate: true
+  xy: 485, 1908
+  size: 83, 117
+  orig: 105, 167
+  offset: 10, 25
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_03
+  rotate: true
+  xy: 749, 1902
+  size: 87, 119
+  orig: 105, 167
+  offset: 9, 24
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_04
+  rotate: true
+  xy: 870, 1896
+  size: 93, 145
+  orig: 105, 167
+  offset: 5, 12
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_05
+  rotate: true
+  xy: 1309, 1890
+  size: 97, 145
+  orig: 105, 167
+  offset: 4, 12
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_06
+  rotate: true
+  xy: 1852, 1882
+  size: 99, 145
+  orig: 105, 167
+  offset: 3, 12
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_07
+  rotate: true
+  xy: 1, 1813
+  size: 99, 145
+  orig: 105, 167
+  offset: 3, 12
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_08
+  rotate: true
+  xy: 471, 1805
+  size: 99, 147
+  orig: 105, 167
+  offset: 3, 11
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_09
+  rotate: true
+  xy: 1456, 1890
+  size: 97, 147
+  orig: 105, 167
+  offset: 4, 11
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_10
+  rotate: true
+  xy: 1605, 1888
+  size: 97, 145
+  orig: 105, 167
+  offset: 4, 11
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_11
+  rotate: true
+  xy: 1017, 1894
+  size: 93, 145
+  orig: 105, 167
+  offset: 5, 11
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_12
+  rotate: true
+  xy: 1164, 1892
+  size: 95, 143
+  orig: 105, 167
+  offset: 5, 13
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_13
+  rotate: true
+  xy: 604, 1906
+  size: 83, 143
+  orig: 105, 167
+  offset: 10, 13
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_14
+  rotate: true
+  xy: 346, 1912
+  size: 79, 137
+  orig: 105, 167
+  offset: 13, 16
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_15
+  rotate: true
+  xy: 1, 1916
+  size: 77, 113
+  orig: 105, 167
+  offset: 13, 27
+  index: -1
+Sword_Effect_unpack/vfx_b_sword_16
+  rotate: true
+  xy: 116, 1914
+  size: 77, 111
+  orig: 105, 167
+  offset: 13, 27
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_01
+  rotate: false
+  xy: 1, 2035
+  size: 5, 4
+  orig: 131, 403
+  offset: 0, 399
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_04
+  rotate: false
+  xy: 1, 2035
+  size: 5, 4
+  orig: 131, 403
+  offset: 0, 399
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_05
+  rotate: false
+  xy: 1, 2035
+  size: 5, 4
+  orig: 131, 403
+  offset: 0, 399
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_07
+  rotate: false
+  xy: 1, 2035
+  size: 5, 4
+  orig: 131, 403
+  offset: 0, 399
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_08
+  rotate: false
+  xy: 1, 2035
+  size: 5, 4
+  orig: 131, 403
+  offset: 0, 399
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_09
+  rotate: false
+  xy: 1, 2035
+  size: 5, 4
+  orig: 131, 403
+  offset: 0, 399
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_12
+  rotate: false
+  xy: 1, 2035
+  size: 5, 4
+  orig: 131, 403
+  offset: 0, 399
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_02
+  rotate: true
+  xy: 1, 1243
+  size: 130, 196
+  orig: 130, 403
+  offset: 0, 207
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_03
+  rotate: true
+  xy: 1669, 985
+  size: 130, 318
+  orig: 130, 403
+  offset: 0, 85
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_06
+  rotate: true
+  xy: 1, 962
+  size: 130, 403
+  orig: 130, 403
+  offset: 0, 0
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_10
+  rotate: true
+  xy: 406, 954
+  size: 130, 353
+  orig: 130, 403
+  offset: 0, 0
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_11
+  rotate: true
+  xy: 761, 941
+  size: 130, 319
+  orig: 130, 403
+  offset: 0, 0
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_13
+  rotate: true
+  xy: 1908, 1533
+  size: 130, 131
+  orig: 130, 403
+  offset: 0, 0
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_41
+  rotate: false
+  xy: 1752, 1887
+  size: 98, 98
+  orig: 216, 276
+  offset: 57, 127
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_42
+  rotate: true
+  xy: 1912, 1768
+  size: 112, 122
+  orig: 216, 276
+  offset: 49, 110
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_43
+  rotate: true
+  xy: 1855, 1237
+  size: 178, 180
+  orig: 216, 276
+  offset: 16, 85
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_44
+  rotate: false
+  xy: 1473, 989
+  size: 194, 186
+  orig: 216, 276
+  offset: 5, 81
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_45
+  rotate: true
+  xy: 1808, 785
+  size: 198, 202
+  orig: 216, 276
+  offset: 0, 72
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_46
+  rotate: true
+  xy: 1007, 702
+  size: 216, 223
+  orig: 216, 276
+  offset: 0, 53
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_47
+  rotate: true
+  xy: 1735, 567
+  size: 216, 225
+  orig: 216, 276
+  offset: 0, 51
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_48
+  rotate: true
+  xy: 1728, 349
+  size: 216, 276
+  orig: 216, 276
+  offset: 0, 0
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_49
+  rotate: false
+  xy: 1510, 413
+  size: 216, 241
+  orig: 216, 276
+  offset: 0, 35
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_52
+  rotate: true
+  xy: 1082, 920
+  size: 133, 273
+  orig: 216, 276
+  offset: 83, 3
+  index: -1
+sword_light/sword_light_00000
+  rotate: false
+  xy: 1, 766
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00001
+  rotate: false
+  xy: 504, 753
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00002
+  rotate: false
+  xy: 1232, 656
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00003
+  rotate: false
+  xy: 1, 578
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00004
+  rotate: false
+  xy: 504, 565
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00005
+  rotate: false
+  xy: 1007, 468
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00006
+  rotate: false
+  xy: 1, 390
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00007
+  rotate: false
+  xy: 504, 377
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00008
+  rotate: false
+  xy: 1007, 280
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00009
+  rotate: false
+  xy: 1, 202
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00010
+  rotate: false
+  xy: 504, 189
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00011
+  rotate: false
+  xy: 1510, 161
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00012
+  rotate: false
+  xy: 1007, 92
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00013
+  rotate: false
+  xy: 1, 14
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00014
+  rotate: false
+  xy: 504, 1
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+
+win2.png
+size: 691,1029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lucky_Spin_Light_unpack/flare_02
+  rotate: false
+  xy: 1, 1
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_50
+  rotate: true
+  xy: 1, 248
+  size: 216, 276
+  orig: 216, 276
+  offset: 0, 0
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_51
+  rotate: false
+  xy: 279, 201
+  size: 216, 263
+  orig: 216, 276
+  offset: 0, 13
+  index: -1
+sword_light/sword_light_00015
+  rotate: false
+  xy: 1, 842
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00016
+  rotate: true
+  xy: 504, 527
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00017
+  rotate: false
+  xy: 1, 654
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00018
+  rotate: false
+  xy: 1, 466
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1
+sword_light/sword_light_00019
+  rotate: true
+  xy: 504, 24
+  size: 501, 186
+  orig: 501, 186
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,300 @@
+
+BG_lightA.png
+size: 1463,1525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9495ebe8-699b-4de3-8b50-8101ba720858.b039c_unpack/big_win_gem
+  rotate: true
+  xy: 1307, 1090
+  size: 179, 146
+  orig: 179, 146
+  offset: 0, 0
+  index: -1
+9495ebe8-699b-4de3-8b50-8101ba720858.b039c_unpack/big_win_ring
+  rotate: false
+  xy: 1, 884
+  size: 578, 640
+  orig: 578, 640
+  offset: 0, 0
+  index: -1
+9495ebe8-699b-4de3-8b50-8101ba720858.b039c_unpack/big_win_wing
+  rotate: false
+  xy: 1054, 1243
+  size: 222, 281
+  orig: 222, 281
+  offset: 0, 0
+  index: -1
+9495ebe8-699b-4de3-8b50-8101ba720858.b039c_unpack/mega_win_gem
+  rotate: false
+  xy: 581, 929
+  size: 360, 135
+  orig: 362, 135
+  offset: 0, 0
+  index: -1
+9495ebe8-699b-4de3-8b50-8101ba720858.b039c_unpack/super_mega_win_gem
+  rotate: false
+  xy: 1, 202
+  size: 494, 205
+  orig: 494, 205
+  offset: 0, 0
+  index: -1
+Big_Win_unpack/light_big_win_00
+  rotate: true
+  xy: 1, 16
+  size: 184, 253
+  orig: 184, 398
+  offset: 0, 145
+  index: -1
+Big_Win_unpack/light_big_win_01
+  rotate: false
+  xy: 1278, 1271
+  size: 184, 253
+  orig: 184, 398
+  offset: 0, 145
+  index: -1
+Big_Win_unpack/light_big_win_02
+  rotate: true
+  xy: 256, 16
+  size: 184, 253
+  orig: 184, 398
+  offset: 0, 145
+  index: -1
+Big_Win_unpack/light_big_win_03
+  rotate: true
+  xy: 1054, 1057
+  size: 184, 251
+  orig: 184, 398
+  offset: 0, 147
+  index: -1
+Big_Win_unpack/light_big_win_04
+  rotate: true
+  xy: 493, 443
+  size: 184, 251
+  orig: 184, 398
+  offset: 0, 147
+  index: -1
+Big_Win_unpack/light_big_win_05
+  rotate: true
+  xy: 497, 257
+  size: 184, 251
+  orig: 184, 398
+  offset: 0, 147
+  index: -1
+Big_Win_unpack/light_big_win_06
+  rotate: false
+  xy: 493, 629
+  size: 184, 253
+  orig: 184, 398
+  offset: 0, 145
+  index: -1
+Big_Win_unpack/light_big_win_07
+  rotate: false
+  xy: 511, 2
+  size: 184, 253
+  orig: 184, 398
+  offset: 0, 145
+  index: -1
+Big_Win_unpack/light_big_win_08
+  rotate: true
+  xy: 746, 496
+  size: 184, 253
+  orig: 184, 398
+  offset: 0, 145
+  index: -1
+Big_Win_unpack/light_big_win_09
+  rotate: true
+  xy: 750, 310
+  size: 184, 253
+  orig: 184, 398
+  offset: 0, 145
+  index: -1
+Big_Win_unpack/light_big_win_10
+  rotate: false
+  xy: 697, 2
+  size: 184, 253
+  orig: 184, 398
+  offset: 0, 145
+  index: -1
+Big_Win_unpack/light_big_win_11
+  rotate: false
+  xy: 883, 55
+  size: 184, 253
+  orig: 184, 398
+  offset: 0, 145
+  index: -1
+Big_Win_unpack/light_big_win_12
+  rotate: true
+  xy: 1001, 499
+  size: 184, 251
+  orig: 184, 398
+  offset: 0, 147
+  index: -1
+Big_Win_unpack/light_big_win_13
+  rotate: true
+  xy: 1005, 313
+  size: 184, 249
+  orig: 184, 398
+  offset: 0, 149
+  index: -1
+Big_Win_unpack/light_big_win_14
+  rotate: false
+  xy: 1198, 806
+  size: 184, 249
+  orig: 184, 398
+  offset: 0, 149
+  index: -1
+Big_Win_unpack/light_big_win_15
+  rotate: false
+  xy: 1254, 553
+  size: 184, 251
+  orig: 184, 398
+  offset: 0, 147
+  index: -1
+Big_Win_unpack/light_big_win_16
+  rotate: true
+  xy: 943, 871
+  size: 184, 253
+  orig: 184, 398
+  offset: 0, 145
+  index: -1
+Big_Win_unpack/light_big_win_17
+  rotate: true
+  xy: 926, 685
+  size: 184, 253
+  orig: 184, 398
+  offset: 0, 145
+  index: -1
+Big_Win_unpack/light_big_win_18
+  rotate: false
+  xy: 1069, 58
+  size: 184, 253
+  orig: 184, 398
+  offset: 0, 145
+  index: -1
+Black_Gem_unpack/gem_fx_1
+  rotate: false
+  xy: 581, 888
+  size: 53, 39
+  orig: 65, 59
+  offset: 6, 11
+  index: -1
+Black_Gem_unpack/gem_fx_10
+  rotate: true
+  xy: 1408, 443
+  size: 53, 39
+  orig: 65, 59
+  offset: 6, 11
+  index: -1
+Black_Gem_unpack/gem_fx_11
+  rotate: true
+  xy: 1408, 388
+  size: 53, 39
+  orig: 65, 59
+  offset: 6, 11
+  index: -1
+Black_Gem_unpack/gem_fx_12
+  rotate: true
+  xy: 1408, 333
+  size: 53, 39
+  orig: 65, 59
+  offset: 6, 11
+  index: -1
+Black_Gem_unpack/gem_fx_2
+  rotate: false
+  xy: 679, 641
+  size: 53, 39
+  orig: 65, 59
+  offset: 6, 11
+  index: -1
+Black_Gem_unpack/gem_fx_3
+  rotate: false
+  xy: 750, 269
+  size: 53, 39
+  orig: 65, 59
+  offset: 6, 11
+  index: -1
+Black_Gem_unpack/gem_fx_5
+  rotate: false
+  xy: 883, 14
+  size: 53, 39
+  orig: 65, 59
+  offset: 6, 11
+  index: -1
+Black_Gem_unpack/gem_fx_6
+  rotate: false
+  xy: 805, 269
+  size: 53, 39
+  orig: 65, 59
+  offset: 6, 11
+  index: -1
+Black_Gem_unpack/gem_fx_7
+  rotate: false
+  xy: 938, 14
+  size: 53, 39
+  orig: 65, 59
+  offset: 6, 11
+  index: -1
+Black_Gem_unpack/gem_fx_8
+  rotate: false
+  xy: 993, 14
+  size: 53, 39
+  orig: 65, 59
+  offset: 6, 11
+  index: -1
+Black_Gem_unpack/gem_fx_9
+  rotate: true
+  xy: 1408, 498
+  size: 53, 39
+  orig: 65, 59
+  offset: 6, 11
+  index: -1
+Lucky_Spin_Light_unpack/mega_win_spin
+  rotate: false
+  xy: 1256, 415
+  size: 150, 136
+  orig: 150, 136
+  offset: 0, 0
+  index: -1
+Lucky_Spin_Light_unpack/super_mega_win_spin
+  rotate: false
+  xy: 1256, 277
+  size: 150, 136
+  orig: 150, 136
+  offset: 0, 0
+  index: -1
+Lucky_Spin_Light_unpack/super_mega_win_spin2
+  rotate: false
+  xy: 1255, 1
+  size: 150, 136
+  orig: 150, 136
+  offset: 0, 0
+  index: -1
+Mega_Win_unpack/big_win_spin
+  rotate: false
+  xy: 1255, 139
+  size: 150, 136
+  orig: 150, 136
+  offset: 0, 0
+  index: -1
+Mega_Win_unpack/mega_win_circle
+  rotate: false
+  xy: 1, 409
+  size: 490, 473
+  orig: 490, 473
+  offset: 0, 0
+  index: -1
+Mega_Win_unpack/super_mega_win_circle
+  rotate: false
+  xy: 581, 1066
+  size: 471, 458
+  orig: 471, 458
+  offset: 0, 0
+  index: -1
+fs_vfx_g
+  rotate: false
+  xy: 679, 682
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1

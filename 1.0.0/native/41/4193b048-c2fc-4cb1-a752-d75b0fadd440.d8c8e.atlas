@@ -1,0 +1,482 @@
+
+lucky_spin.png
+size: 1987,1110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lucky_Spin_Effect_unpack/vfx_c_wheel_spin_01
+  rotate: false
+  xy: 973, 57
+  size: 92, 188
+  orig: 100, 196
+  offset: 4, 5
+  index: -1
+Lucky_Spin_Effect_unpack/vfx_c_wheel_spin_02
+  rotate: true
+  xy: 1490, 10
+  size: 92, 186
+  orig: 100, 196
+  offset: 4, 5
+  index: -1
+Lucky_Spin_Effect_unpack/vfx_c_wheel_spin_03
+  rotate: true
+  xy: 1806, 369
+  size: 92, 178
+  orig: 100, 196
+  offset: 4, 6
+  index: -1
+Lucky_Spin_Effect_unpack/vfx_c_wheel_spin_04
+  rotate: true
+  xy: 1585, 115
+  size: 92, 186
+  orig: 100, 196
+  offset: 4, 5
+  index: -1
+Lucky_Spin_Effect_unpack/vfx_c_wheel_spin_05
+  rotate: true
+  xy: 1806, 463
+  size: 92, 180
+  orig: 100, 196
+  offset: 4, 12
+  index: -1
+Lucky_Spin_Sword_unpack/vfx_e_wheel_spin_00
+  rotate: false
+  xy: 590, 609
+  size: 136, 249
+  orig: 138, 251
+  offset: 1, 1
+  index: -1
+Lucky_Spin_Sword_unpack/vfx_e_wheel_spin_01
+  rotate: false
+  xy: 714, 358
+  size: 136, 249
+  orig: 138, 251
+  offset: 1, 1
+  index: -1
+Lucky_Spin_Sword_unpack/vfx_e_wheel_spin_02
+  rotate: false
+  xy: 728, 609
+  size: 136, 249
+  orig: 138, 251
+  offset: 1, 1
+  index: -1
+Lucky_Spin_Sword_unpack/vfx_e_wheel_spin_03
+  rotate: false
+  xy: 730, 860
+  size: 136, 249
+  orig: 138, 251
+  offset: 1, 1
+  index: -1
+Lucky_Spin_Sword_unpack/vfx_e_wheel_spin_04
+  rotate: false
+  xy: 310, 860
+  size: 138, 249
+  orig: 138, 251
+  offset: 0, 1
+  index: -1
+Lucky_Spin_Sword_unpack/vfx_e_wheel_spin_05
+  rotate: false
+  xy: 310, 609
+  size: 138, 249
+  orig: 138, 251
+  offset: 0, 1
+  index: -1
+Lucky_Spin_Sword_unpack/vfx_e_wheel_spin_06
+  rotate: false
+  xy: 450, 860
+  size: 138, 249
+  orig: 138, 251
+  offset: 0, 1
+  index: -1
+Lucky_Spin_Sword_unpack/vfx_e_wheel_spin_07
+  rotate: false
+  xy: 450, 609
+  size: 138, 249
+  orig: 138, 251
+  offset: 0, 1
+  index: -1
+Lucky_Spin_Sword_unpack/vfx_e_wheel_spin_08
+  rotate: false
+  xy: 574, 358
+  size: 138, 249
+  orig: 138, 251
+  offset: 0, 1
+  index: -1
+Lucky_Spin_Sword_unpack/vfx_e_wheel_spin_09
+  rotate: false
+  xy: 590, 860
+  size: 138, 249
+  orig: 138, 251
+  offset: 0, 1
+  index: -1
+Lucky_Spin_Sword_unpack/vfx_e_wheel_spin_10
+  rotate: false
+  xy: 852, 358
+  size: 136, 249
+  orig: 138, 251
+  offset: 2, 1
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_01
+  rotate: false
+  xy: 1009, 863
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_02
+  rotate: false
+  xy: 1108, 615
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_03
+  rotate: false
+  xy: 1150, 863
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_04
+  rotate: false
+  xy: 1067, 1
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_05
+  rotate: false
+  xy: 1131, 367
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_06
+  rotate: false
+  xy: 1249, 615
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_07
+  rotate: false
+  xy: 1291, 863
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_08
+  rotate: false
+  xy: 1272, 367
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_09
+  rotate: false
+  xy: 1390, 615
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_10
+  rotate: false
+  xy: 866, 610
+  size: 139, 248
+  orig: 139, 249
+  offset: 0, 1
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_11
+  rotate: false
+  xy: 868, 861
+  size: 139, 248
+  orig: 139, 249
+  offset: 0, 1
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_12
+  rotate: false
+  xy: 990, 360
+  size: 139, 248
+  orig: 139, 249
+  offset: 0, 1
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_13
+  rotate: false
+  xy: 1432, 863
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_14
+  rotate: false
+  xy: 1208, 8
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_15
+  rotate: false
+  xy: 1413, 367
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_16
+  rotate: false
+  xy: 1531, 615
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_17
+  rotate: false
+  xy: 1573, 863
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_18
+  rotate: false
+  xy: 1349, 8
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_19
+  rotate: false
+  xy: 1554, 367
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_20
+  rotate: false
+  xy: 1672, 615
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_X100_unpack/vfx_a_wheel_spin_21
+  rotate: false
+  xy: 1714, 863
+  size: 139, 246
+  orig: 139, 249
+  offset: 0, 3
+  index: -1
+Lucky_Spin_unpack/sword
+  rotate: false
+  xy: 1, 538
+  size: 307, 571
+  orig: 307, 571
+  offset: 0, 0
+  index: -1
+Lucky_Spin_unpack/sword_base
+  rotate: true
+  xy: 1007, 612
+  size: 247, 99
+  orig: 247, 99
+  offset: 0, 0
+  index: -1
+Lucky_Spin_unpack/sword_gold
+  rotate: true
+  xy: 1, 229
+  size: 307, 571
+  orig: 307, 571
+  offset: 0, 0
+  index: -1
+Sword_Back_unpack/vfx_f_wheel_spin
+  rotate: false
+  xy: 645, 15
+  size: 160, 230
+  orig: 160, 230
+  offset: 0, 0
+  index: -1
+Sword_Effect2_unpack/light_ray_00
+  rotate: true
+  xy: 574, 247
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_01
+  rotate: true
+  xy: 719, 247
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_02
+  rotate: true
+  xy: 864, 247
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_03
+  rotate: true
+  xy: 1009, 249
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_04
+  rotate: true
+  xy: 1154, 256
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_05
+  rotate: true
+  xy: 1299, 256
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_06
+  rotate: true
+  xy: 1444, 256
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_07
+  rotate: false
+  xy: 1855, 864
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_08
+  rotate: false
+  xy: 1695, 470
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_09
+  rotate: false
+  xy: 1695, 325
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_10
+  rotate: true
+  xy: 1678, 4
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_11
+  rotate: true
+  xy: 1688, 214
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_12
+  rotate: true
+  xy: 1833, 118
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_13
+  rotate: true
+  xy: 1823, 7
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_01
+  rotate: false
+  xy: 450, 557
+  size: 122, 50
+  orig: 178, 354
+  offset: 31, 29
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_02
+  rotate: false
+  xy: 1855, 1009
+  size: 130, 100
+  orig: 178, 354
+  offset: 28, 23
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_03
+  rotate: true
+  xy: 1833, 229
+  size: 138, 144
+  orig: 178, 354
+  offset: 24, 18
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_04
+  rotate: true
+  xy: 1813, 719
+  size: 142, 172
+  orig: 178, 354
+  offset: 22, 25
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_05
+  rotate: false
+  xy: 493, 17
+  size: 150, 210
+  orig: 178, 354
+  offset: 19, 30
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_06
+  rotate: false
+  xy: 333, 15
+  size: 158, 212
+  orig: 178, 354
+  offset: 14, 61
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_07
+  rotate: false
+  xy: 167, 15
+  size: 164, 212
+  orig: 178, 354
+  offset: 8, 97
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_08
+  rotate: false
+  xy: 1, 9
+  size: 164, 218
+  orig: 178, 354
+  offset: 10, 134
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_09
+  rotate: false
+  xy: 807, 54
+  size: 164, 191
+  orig: 178, 354
+  offset: 9, 163
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_10
+  rotate: true
+  xy: 1813, 557
+  size: 160, 169
+  orig: 178, 354
+  offset: 10, 185
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_11
+  rotate: true
+  xy: 1589, 209
+  size: 156, 97
+  orig: 178, 354
+  offset: 10, 257
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_12
+  rotate: true
+  xy: 1490, 104
+  size: 150, 93
+  orig: 178, 354
+  offset: 14, 261
+  index: -1
+Wheel_Stop_unpack/vfx_b_wheel_spin_13
+  rotate: false
+  xy: 310, 553
+  size: 138, 54
+  orig: 178, 354
+  offset: 10, 300
+  index: -1

@@ -1,0 +1,503 @@
+
+jiasu.png
+size: 1411,387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_01
+  rotate: false
+  xy: 2, 19
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_02
+  rotate: true
+  xy: 204, 220
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_03
+  rotate: false
+  xy: 104, 19
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_04
+  rotate: false
+  xy: 206, 54
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_05
+  rotate: false
+  xy: 308, 54
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_06
+  rotate: true
+  xy: 423, 285
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_07
+  rotate: true
+  xy: 589, 285
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_08
+  rotate: true
+  xy: 755, 285
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_09
+  rotate: true
+  xy: 921, 285
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_10
+  rotate: true
+  xy: 1087, 285
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_11
+  rotate: false
+  xy: 1253, 221
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_12
+  rotate: false
+  xy: 473, 119
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+0640838c-8c6c-4397-a417-8a32bb81dd9c.140e3_unpack/vfx_b_fast_spin_13
+  rotate: false
+  xy: 575, 119
+  size: 100, 164
+  orig: 104, 164
+  offset: 2, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_01
+  rotate: true
+  xy: 1021, 2
+  size: 19, 64
+  orig: 23, 146
+  offset: 1, 61
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_02
+  rotate: false
+  xy: 370, 228
+  size: 19, 92
+  orig: 23, 146
+  offset: 1, 49
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_03
+  rotate: true
+  xy: 743, 144
+  size: 23, 140
+  orig: 23, 146
+  offset: 0, 5
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_04
+  rotate: true
+  xy: 1087, 119
+  size: 23, 140
+  orig: 23, 146
+  offset: 0, 6
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_05
+  rotate: true
+  xy: 1227, 77
+  size: 23, 138
+  orig: 23, 146
+  offset: 0, 6
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_06
+  rotate: true
+  xy: 1221, 27
+  size: 23, 136
+  orig: 23, 146
+  offset: 0, 7
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_07
+  rotate: true
+  xy: 1087, 2
+  size: 23, 136
+  orig: 23, 146
+  offset: 0, 8
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_08
+  rotate: true
+  xy: 885, 121
+  size: 23, 146
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_09
+  rotate: true
+  xy: 677, 119
+  size: 23, 146
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_10
+  rotate: true
+  xy: 665, 94
+  size: 23, 146
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_11
+  rotate: true
+  xy: 1227, 52
+  size: 23, 138
+  orig: 23, 146
+  offset: 0, 1
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_12
+  rotate: true
+  xy: 1079, 44
+  size: 23, 140
+  orig: 23, 146
+  offset: 0, 1
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_13
+  rotate: true
+  xy: 665, 69
+  size: 23, 146
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_14
+  rotate: true
+  xy: 665, 44
+  size: 23, 146
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_15
+  rotate: true
+  xy: 665, 19
+  size: 23, 146
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_16
+  rotate: true
+  xy: 873, 96
+  size: 23, 146
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_17
+  rotate: true
+  xy: 476, 2
+  size: 21, 146
+  orig: 23, 146
+  offset: 1, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_18
+  rotate: true
+  xy: 873, 71
+  size: 23, 146
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_19
+  rotate: true
+  xy: 873, 46
+  size: 23, 146
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_20
+  rotate: true
+  xy: 873, 21
+  size: 23, 146
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_21
+  rotate: true
+  xy: 1079, 94
+  size: 23, 146
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_22
+  rotate: true
+  xy: 1079, 69
+  size: 23, 146
+  orig: 23, 146
+  offset: 0, 0
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_23
+  rotate: true
+  xy: 885, 146
+  size: 23, 114
+  orig: 23, 146
+  offset: 0, 32
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_24
+  rotate: true
+  xy: 1001, 146
+  size: 19, 112
+  orig: 23, 146
+  offset: 1, 33
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_25
+  rotate: true
+  xy: 1115, 144
+  size: 19, 112
+  orig: 23, 146
+  offset: 1, 34
+  index: -1
+Fast_Spin_Particle_unpack/fast_spin_particle_26
+  rotate: true
+  xy: 2, 6
+  size: 11, 82
+  orig: 23, 146
+  offset: 3, 36
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_01
+  rotate: true
+  xy: 1143, 225
+  size: 58, 108
+  orig: 78, 134
+  offset: 10, 1
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_02
+  rotate: false
+  xy: 1355, 161
+  size: 54, 106
+  orig: 78, 134
+  offset: 10, 15
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_03
+  rotate: false
+  xy: 1355, 269
+  size: 54, 116
+  orig: 78, 134
+  offset: 11, 1
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_04
+  rotate: true
+  xy: 1127, 165
+  size: 58, 118
+  orig: 78, 134
+  offset: 9, 1
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_05
+  rotate: true
+  xy: 743, 169
+  size: 56, 132
+  orig: 78, 134
+  offset: 9, 1
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_06
+  rotate: true
+  xy: 206, 2
+  size: 50, 134
+  orig: 78, 134
+  offset: 9, 0
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_07
+  rotate: true
+  xy: 342, 2
+  size: 50, 132
+  orig: 78, 134
+  offset: 10, 2
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_08
+  rotate: true
+  xy: 473, 59
+  size: 58, 134
+  orig: 78, 134
+  offset: 9, 0
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_09
+  rotate: true
+  xy: 879, 171
+  size: 58, 124
+  orig: 78, 134
+  offset: 9, 3
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_10
+  rotate: false
+  xy: 609, 25
+  size: 54, 92
+  orig: 78, 134
+  offset: 10, 10
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_11
+  rotate: true
+  xy: 1247, 163
+  size: 56, 106
+  orig: 78, 134
+  offset: 10, 12
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_12
+  rotate: true
+  xy: 743, 227
+  size: 56, 134
+  orig: 78, 134
+  offset: 9, 0
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_13
+  rotate: true
+  xy: 879, 231
+  size: 52, 134
+  orig: 78, 134
+  offset: 11, 0
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_14
+  rotate: true
+  xy: 1005, 167
+  size: 56, 120
+  orig: 78, 134
+  offset: 10, 1
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_15
+  rotate: true
+  xy: 1015, 225
+  size: 58, 126
+  orig: 78, 134
+  offset: 9, 5
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_16
+  rotate: false
+  xy: 813, 13
+  size: 58, 104
+  orig: 78, 134
+  offset: 9, 14
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_17
+  rotate: false
+  xy: 1021, 23
+  size: 56, 96
+  orig: 78, 134
+  offset: 10, 1
+  index: -1
+Fast_Sword_Lightening2_unpack/vfx_a_fast_spin_18
+  rotate: true
+  xy: 476, 25
+  size: 32, 128
+  orig: 78, 134
+  offset: 10, 1
+  index: -1
+Fast_Sword_Lightening_unpack/vfx_c_fast_spin_01
+  rotate: false
+  xy: 1005, 226
+  size: 3, 3
+  orig: 63, 217
+  offset: 1, 214
+  index: -1
+Fast_Sword_Lightening_unpack/vfx_c_fast_spin_04
+  rotate: false
+  xy: 1005, 226
+  size: 3, 3
+  orig: 63, 217
+  offset: 1, 214
+  index: -1
+Fast_Sword_Lightening_unpack/vfx_c_fast_spin_05
+  rotate: false
+  xy: 1005, 226
+  size: 3, 3
+  orig: 63, 217
+  offset: 1, 214
+  index: -1
+Fast_Sword_Lightening_unpack/vfx_c_fast_spin_07
+  rotate: false
+  xy: 1005, 226
+  size: 3, 3
+  orig: 63, 217
+  offset: 1, 214
+  index: -1
+Fast_Sword_Lightening_unpack/vfx_c_fast_spin_08
+  rotate: false
+  xy: 1005, 226
+  size: 3, 3
+  orig: 63, 217
+  offset: 1, 214
+  index: -1
+Fast_Sword_Lightening_unpack/vfx_c_fast_spin_09
+  rotate: false
+  xy: 1005, 226
+  size: 3, 3
+  orig: 63, 217
+  offset: 1, 214
+  index: -1
+Fast_Sword_Lightening_unpack/vfx_c_fast_spin_10
+  rotate: false
+  xy: 1005, 226
+  size: 3, 3
+  orig: 63, 217
+  offset: 1, 214
+  index: -1
+Fast_Sword_Lightening_unpack/vfx_c_fast_spin_02
+  rotate: true
+  xy: 1342, 102
+  size: 57, 65
+  orig: 63, 217
+  offset: 3, 1
+  index: -1
+Fast_Sword_Lightening_unpack/vfx_c_fast_spin_03
+  rotate: false
+  xy: 410, 54
+  size: 61, 165
+  orig: 63, 217
+  offset: 1, 1
+  index: -1
+Fast_Sword_Lightening_unpack/vfx_c_fast_spin_06
+  rotate: true
+  xy: 204, 322
+  size: 63, 217
+  orig: 63, 217
+  offset: 0, 0
+  index: -1
+Fast_Sword_Lightening_unpack/vfx_c_fast_spin_11
+  rotate: true
+  xy: 1229, 102
+  size: 59, 111
+  orig: 63, 217
+  offset: 4, 106
+  index: -1
+Fast_Sword_Lightening_unpack/vfx_c_fast_spin_12
+  rotate: true
+  xy: 391, 226
+  size: 57, 77
+  orig: 63, 217
+  offset: 6, 140
+  index: -1
+bark
+  rotate: false
+  xy: 2, 185
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+white_shine
+  rotate: false
+  xy: 677, 155
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1

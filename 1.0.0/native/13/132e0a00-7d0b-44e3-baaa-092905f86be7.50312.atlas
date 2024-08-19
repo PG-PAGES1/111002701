@@ -1,0 +1,132 @@
+
+bg.png
+size: 580,639
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Main_Back_unpack/grass_a
+  rotate: true
+  xy: 1, 46
+  size: 148, 171
+  orig: 148, 172
+  offset: 0, 1
+  index: -1
+Main_Back_unpack/grass_b
+  rotate: false
+  xy: 174, 21
+  size: 180, 166
+  orig: 180, 166
+  offset: 0, 0
+  index: -1
+Main_Back_unpack/grass_c
+  rotate: false
+  xy: 356, 1
+  size: 220, 186
+  orig: 221, 186
+  offset: 1, 0
+  index: -1
+Sword_Effect2_unpack/light_ray_00
+  rotate: true
+  xy: 1, 529
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_01
+  rotate: true
+  xy: 146, 529
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_02
+  rotate: true
+  xy: 291, 529
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_03
+  rotate: true
+  xy: 436, 529
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_04
+  rotate: true
+  xy: 1, 418
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_05
+  rotate: true
+  xy: 146, 418
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_06
+  rotate: true
+  xy: 291, 418
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_07
+  rotate: true
+  xy: 436, 418
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_08
+  rotate: true
+  xy: 1, 307
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_09
+  rotate: true
+  xy: 146, 307
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_10
+  rotate: true
+  xy: 291, 307
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_11
+  rotate: true
+  xy: 436, 307
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_12
+  rotate: true
+  xy: 1, 196
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+Sword_Effect2_unpack/light_ray_13
+  rotate: true
+  xy: 146, 196
+  size: 109, 143
+  orig: 109, 156
+  offset: 0, 13
+  index: -1
+bg
+  rotate: true
+  xy: 291, 189
+  size: 116, 245
+  orig: 116, 255
+  offset: 0, 7
+  index: -1

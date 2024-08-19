@@ -1,0 +1,307 @@
+
+jiesuan.png
+size: 1951,880
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Collect_Btn
+  rotate: false
+  xy: 447, 180
+  size: 167, 65
+  orig: 167, 65
+  offset: 0, 0
+  index: -1
+Lucky_Spin_Light_unpack/flare_02
+  rotate: false
+  xy: 447, 379
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+Lucky_Spin_Light_unpack/flare_b
+  rotate: false
+  xy: 746, 189
+  size: 132, 56
+  orig: 132, 56
+  offset: 0, 0
+  index: -1
+Lucky_Spin_Light_unpack/flare_d
+  rotate: false
+  xy: 1816, 241
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Lucky_Spin_Light_unpack/flare_f
+  rotate: false
+  xy: 308, 626
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+Lucky_Spin_Light_unpack/mega_win_spin
+  rotate: true
+  xy: 1813, 79
+  size: 150, 136
+  orig: 150, 136
+  offset: 0, 0
+  index: -1
+Lucky_Spin_Light_unpack/white_shine
+  rotate: true
+  xy: 616, 181
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+Lucky_Spin_unpack/sword_base
+  rotate: false
+  xy: 1694, 343
+  size: 247, 99
+  orig: 247, 99
+  offset: 0, 0
+  index: -1
+Main_Back_unpack/sword_reel
+  rotate: true
+  xy: 308, 177
+  size: 447, 137
+  orig: 450, 141
+  offset: 1, 2
+  index: -1
+Total_Win_Back_Light_unpack/vfx_a_total_win_01
+  rotate: false
+  xy: 1130, 444
+  size: 216, 216
+  orig: 216, 218
+  offset: 0, 1
+  index: -1
+Total_Win_Back_Light_unpack/vfx_a_total_win_02
+  rotate: false
+  xy: 1330, 662
+  size: 216, 216
+  orig: 216, 218
+  offset: 0, 1
+  index: -1
+Total_Win_Back_Light_unpack/vfx_a_total_win_03
+  rotate: false
+  xy: 1258, 226
+  size: 216, 216
+  orig: 216, 218
+  offset: 0, 1
+  index: -1
+Total_Win_Back_Light_unpack/vfx_a_total_win_04
+  rotate: false
+  xy: 1348, 444
+  size: 216, 216
+  orig: 216, 218
+  offset: 0, 1
+  index: -1
+Total_Win_Back_Light_unpack/vfx_a_total_win_05
+  rotate: false
+  xy: 1548, 662
+  size: 216, 216
+  orig: 216, 218
+  offset: 0, 1
+  index: -1
+Total_Win_Back_Light_unpack/vfx_a_total_win_06
+  rotate: false
+  xy: 1265, 8
+  size: 216, 216
+  orig: 216, 218
+  offset: 0, 1
+  index: -1
+Total_Win_Back_Light_unpack/vfx_a_total_win_07
+  rotate: false
+  xy: 1476, 226
+  size: 216, 216
+  orig: 216, 218
+  offset: 0, 1
+  index: -1
+Total_Win_Back_Light_unpack/vfx_a_total_win_08
+  rotate: false
+  xy: 1566, 444
+  size: 216, 216
+  orig: 216, 218
+  offset: 0, 1
+  index: -1
+Total_Win_Banner_unpack/banner
+  rotate: true
+  xy: 2, 134
+  size: 744, 304
+  orig: 745, 304
+  offset: 1, 0
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_01
+  rotate: false
+  xy: 308, 172
+  size: 3, 3
+  orig: 131, 403
+  offset: 1, 400
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_04
+  rotate: false
+  xy: 308, 172
+  size: 3, 3
+  orig: 131, 403
+  offset: 1, 400
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_05
+  rotate: false
+  xy: 308, 172
+  size: 3, 3
+  orig: 131, 403
+  offset: 1, 400
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_07
+  rotate: false
+  xy: 308, 172
+  size: 3, 3
+  orig: 131, 403
+  offset: 1, 400
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_08
+  rotate: false
+  xy: 308, 172
+  size: 3, 3
+  orig: 131, 403
+  offset: 1, 400
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_09
+  rotate: false
+  xy: 308, 172
+  size: 3, 3
+  orig: 131, 403
+  offset: 1, 400
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_12
+  rotate: false
+  xy: 308, 172
+  size: 3, 3
+  orig: 131, 403
+  offset: 1, 400
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_02
+  rotate: false
+  xy: 1681, 29
+  size: 130, 195
+  orig: 130, 403
+  offset: 0, 208
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_03
+  rotate: true
+  xy: 447, 247
+  size: 130, 317
+  orig: 130, 403
+  offset: 0, 86
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_06
+  rotate: true
+  xy: 2, 2
+  size: 130, 403
+  orig: 130, 403
+  offset: 0, 0
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_10
+  rotate: true
+  xy: 407, 45
+  size: 130, 351
+  orig: 130, 403
+  offset: 0, 1
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_11
+  rotate: true
+  xy: 760, 57
+  size: 130, 317
+  orig: 130, 403
+  offset: 0, 1
+  index: -1
+Total_Win_Lightening_unpack/vfx_b_total_win_13
+  rotate: false
+  xy: 1784, 571
+  size: 130, 129
+  orig: 130, 403
+  offset: 0, 1
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_41
+  rotate: false
+  xy: 1784, 473
+  size: 96, 96
+  orig: 216, 276
+  offset: 58, 128
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_42
+  rotate: true
+  xy: 1694, 231
+  size: 110, 120
+  orig: 216, 276
+  offset: 50, 111
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_43
+  rotate: true
+  xy: 1766, 702
+  size: 176, 178
+  orig: 216, 276
+  offset: 17, 86
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_44
+  rotate: true
+  xy: 1079, 2
+  size: 192, 184
+  orig: 216, 276
+  offset: 6, 82
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_45
+  rotate: false
+  xy: 1483, 24
+  size: 196, 200
+  orig: 216, 276
+  offset: 1, 73
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_46
+  rotate: false
+  xy: 1040, 196
+  size: 216, 222
+  orig: 216, 276
+  offset: 0, 54
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_47
+  rotate: true
+  xy: 1104, 662
+  size: 216, 224
+  orig: 216, 276
+  offset: 0, 52
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_48
+  rotate: true
+  xy: 562, 662
+  size: 216, 276
+  orig: 216, 276
+  offset: 0, 0
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_49
+  rotate: false
+  xy: 912, 420
+  size: 216, 240
+  orig: 216, 276
+  offset: 0, 36
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_50
+  rotate: false
+  xy: 694, 384
+  size: 216, 276
+  orig: 216, 276
+  offset: 0, 0
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_51
+  rotate: true
+  xy: 840, 662
+  size: 216, 262
+  orig: 216, 276
+  offset: 0, 14
+  index: -1
+Wheel_Stop3_unpack/vfx_d_fast_spin_52
+  rotate: true
+  xy: 766, 250
+  size: 132, 272
+  orig: 216, 276
+  offset: 84, 4
+  index: -1

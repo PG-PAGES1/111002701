@@ -1,0 +1,433 @@
+
+dust.jpg
+size: 1828,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Info_Dust_unpack/dust_03_01
+  rotate: false
+  xy: 1142, 60
+  size: 378, 143
+  orig: 378, 189
+  offset: 0, 18
+  index: -1
+Info_Dust_unpack/dust_03_02
+  rotate: false
+  xy: 382, 215
+  size: 378, 133
+  orig: 378, 189
+  offset: 0, 21
+  index: -1
+Info_Dust_unpack/dust_03_03
+  rotate: false
+  xy: 1142, 205
+  size: 378, 147
+  orig: 378, 189
+  offset: 0, 19
+  index: -1
+Info_Dust_unpack/dust_03_04
+  rotate: false
+  xy: 762, 203
+  size: 378, 147
+  orig: 378, 189
+  offset: 0, 21
+  index: -1
+Info_Dust_unpack/dust_03_05
+  rotate: true
+  xy: 1522, 131
+  size: 378, 151
+  orig: 378, 189
+  offset: 0, 18
+  index: -1
+Info_Dust_unpack/dust_03_06
+  rotate: true
+  xy: 1675, 131
+  size: 378, 151
+  orig: 378, 189
+  offset: 0, 18
+  index: -1
+Info_Dust_unpack/dust_03_07
+  rotate: false
+  xy: 762, 352
+  size: 378, 157
+  orig: 378, 189
+  offset: 0, 16
+  index: -1
+Info_Dust_unpack/dust_03_08
+  rotate: false
+  xy: 1142, 354
+  size: 378, 155
+  orig: 378, 189
+  offset: 0, 17
+  index: -1
+Info_Dust_unpack/dust_03_09
+  rotate: false
+  xy: 2, 346
+  size: 378, 163
+  orig: 378, 189
+  offset: 0, 13
+  index: -1
+Info_Dust_unpack/dust_03_10
+  rotate: false
+  xy: 382, 350
+  size: 378, 159
+  orig: 378, 189
+  offset: 0, 15
+  index: -1
+Info_Dust_unpack/dust_03_11
+  rotate: false
+  xy: 2, 217
+  size: 378, 127
+  orig: 378, 189
+  offset: 0, 15
+  index: -1
+Info_Dust_unpack/dust_03_12
+  rotate: false
+  xy: 2, 92
+  size: 378, 123
+  orig: 378, 189
+  offset: 0, 17
+  index: -1
+Info_Dust_unpack/dust_03_13
+  rotate: false
+  xy: 382, 98
+  size: 378, 115
+  orig: 378, 189
+  offset: 0, 18
+  index: -1
+Info_Dust_unpack/dust_03_14
+  rotate: false
+  xy: 762, 132
+  size: 376, 69
+  orig: 378, 189
+  offset: 2, 20
+  index: -1
+Info_Dust_unpack/dust_03_15
+  rotate: true
+  xy: 350, 66
+  size: 24, 27
+  orig: 378, 189
+  offset: 354, 22
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_01
+  rotate: true
+  xy: 1709, 85
+  size: 9, 6
+  orig: 61, 252
+  offset: 16, 246
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_02
+  rotate: true
+  xy: 556, 48
+  size: 13, 14
+  orig: 61, 252
+  offset: 13, 238
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_03
+  rotate: true
+  xy: 534, 46
+  size: 15, 20
+  orig: 61, 252
+  offset: 13, 232
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_04
+  rotate: false
+  xy: 724, 4
+  size: 25, 36
+  orig: 61, 252
+  offset: 12, 216
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_05
+  rotate: true
+  xy: 981, 2
+  size: 27, 42
+  orig: 61, 252
+  offset: 12, 210
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_06
+  rotate: true
+  xy: 801, 2
+  size: 29, 46
+  orig: 61, 252
+  offset: 10, 206
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_07
+  rotate: true
+  xy: 751, 2
+  size: 29, 48
+  orig: 61, 252
+  offset: 10, 204
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_08
+  rotate: false
+  xy: 730, 42
+  size: 29, 54
+  orig: 61, 252
+  offset: 11, 198
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_09
+  rotate: true
+  xy: 654, 5
+  size: 31, 54
+  orig: 61, 252
+  offset: 9, 198
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_10
+  rotate: true
+  xy: 1251, 31
+  size: 27, 64
+  orig: 61, 252
+  offset: 13, 188
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_11
+  rotate: true
+  xy: 274, 63
+  size: 27, 74
+  orig: 61, 252
+  offset: 13, 178
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_12
+  rotate: true
+  xy: 646, 67
+  size: 29, 82
+  orig: 61, 252
+  offset: 12, 170
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_13
+  rotate: false
+  xy: 1678, 4
+  size: 29, 90
+  orig: 61, 252
+  offset: 12, 162
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_14
+  rotate: true
+  xy: 406, 30
+  size: 31, 126
+  orig: 61, 252
+  offset: 10, 126
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_15
+  rotate: true
+  xy: 887, 31
+  size: 31, 134
+  orig: 61, 252
+  offset: 10, 118
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_16
+  rotate: true
+  xy: 534, 5
+  size: 31, 118
+  orig: 61, 252
+  offset: 10, 134
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_17
+  rotate: true
+  xy: 1522, 63
+  size: 31, 154
+  orig: 61, 252
+  offset: 10, 98
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_18
+  rotate: true
+  xy: 2, 59
+  size: 31, 134
+  orig: 61, 252
+  offset: 10, 118
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_19
+  rotate: true
+  xy: 138, 59
+  size: 31, 134
+  orig: 61, 252
+  offset: 10, 117
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_20
+  rotate: true
+  xy: 887, 64
+  size: 31, 136
+  orig: 61, 252
+  offset: 10, 107
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_21
+  rotate: true
+  xy: 1522, 96
+  size: 33, 198
+  orig: 61, 252
+  offset: 9, 54
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_22
+  rotate: true
+  xy: 762, 97
+  size: 33, 130
+  orig: 61, 252
+  offset: 8, 100
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_23
+  rotate: true
+  xy: 1522, 28
+  size: 33, 140
+  orig: 61, 252
+  offset: 9, 86
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_24
+  rotate: true
+  xy: 894, 97
+  size: 33, 130
+  orig: 61, 252
+  offset: 9, 91
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_25
+  rotate: true
+  xy: 382, 63
+  size: 33, 130
+  orig: 61, 252
+  offset: 9, 87
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_26
+  rotate: true
+  xy: 514, 63
+  size: 33, 130
+  orig: 61, 252
+  offset: 9, 79
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_27
+  rotate: true
+  xy: 761, 62
+  size: 33, 124
+  orig: 61, 252
+  offset: 9, 78
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_28
+  rotate: false
+  xy: 1722, 3
+  size: 33, 126
+  orig: 61, 252
+  offset: 9, 71
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_29
+  rotate: false
+  xy: 1026, 2
+  size: 33, 128
+  orig: 61, 252
+  offset: 9, 66
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_30
+  rotate: false
+  xy: 1061, 2
+  size: 33, 128
+  orig: 61, 252
+  offset: 9, 62
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_31
+  rotate: false
+  xy: 1096, 2
+  size: 33, 128
+  orig: 61, 252
+  offset: 9, 59
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_32
+  rotate: false
+  xy: 1757, 3
+  size: 33, 126
+  orig: 61, 252
+  offset: 9, 56
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_33
+  rotate: false
+  xy: 1792, 3
+  size: 33, 126
+  orig: 61, 252
+  offset: 9, 53
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_34
+  rotate: true
+  xy: 849, 2
+  size: 27, 130
+  orig: 61, 252
+  offset: 16, 46
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_35
+  rotate: true
+  xy: 274, 30
+  size: 31, 130
+  orig: 61, 252
+  offset: 11, 45
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_36
+  rotate: true
+  xy: 2, 30
+  size: 27, 126
+  orig: 61, 252
+  offset: 15, 38
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_37
+  rotate: true
+  xy: 1131, 31
+  size: 27, 118
+  orig: 61, 252
+  offset: 16, 35
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_38
+  rotate: true
+  xy: 761, 33
+  size: 27, 122
+  orig: 61, 252
+  offset: 16, 28
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_39
+  rotate: true
+  xy: 130, 32
+  size: 25, 122
+  orig: 61, 252
+  offset: 15, 25
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_40
+  rotate: true
+  xy: 2, 3
+  size: 25, 122
+  orig: 61, 252
+  offset: 15, 18
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_41
+  rotate: true
+  xy: 1317, 33
+  size: 25, 120
+  orig: 61, 252
+  offset: 14, 16
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_42
+  rotate: true
+  xy: 252, 3
+  size: 25, 122
+  orig: 61, 252
+  offset: 14, 10
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_43
+  rotate: true
+  xy: 376, 3
+  size: 25, 122
+  orig: 61, 252
+  offset: 13, 7
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_44
+  rotate: true
+  xy: 130, 3
+  size: 27, 120
+  orig: 61, 252
+  offset: 12, 5
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_45
+  rotate: true
+  xy: 1317, 6
+  size: 25, 118
+  orig: 61, 252
+  offset: 13, 1
+  index: -1
+Lucky_Spin_Multi_Dust_unpack/dust_01_46
+  rotate: true
+  xy: 646, 38
+  size: 27, 76
+  orig: 61, 252
+  offset: 11, 1
+  index: -1
